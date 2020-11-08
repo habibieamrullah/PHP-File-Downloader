@@ -2,6 +2,21 @@
 <html>
     <head>
         <title>PHP File Downloader</title>
+		
+		<style>
+			body{
+				margin: 0;
+				padding: 30px;
+				background-color: #1d2125;
+				color: white;
+				font-family: courier;
+			}
+			
+			input{
+				background-color: #2f363d;
+				color: white;
+			}
+		</style>
     </head>
     <body>
         
